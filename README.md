@@ -28,8 +28,7 @@ Dengan menggunakan teknologi web standar seperti HTML, CSS, dan JavaScript, apli
 
 - HTML5
 - CSS3
-- JavaScript ES6
-
+- JavaScript 
 ---
 
 Terima kasih sudah mencoba proyek ini. Jangan pernah takut mencoba dan belajar!  
